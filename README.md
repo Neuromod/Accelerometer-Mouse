@@ -5,16 +5,12 @@
 * [Digilent Arty S7](https://reference.digilentinc.com/reference/programmable-logic/arty-s7/start)
 * [PmodNAV](https://store.digilentinc.com/pmod-nav-9-axis-imu-plus-barometer/)
 
-<br/>
-
 ## Software requirements
 
 * Xilinx Vivado & Vitis
 * Digilent's PmodNAV drivers
 * Microblaze soft processor
 * C++ compiler
-
-<br/>
 
 ## Instructions
 
