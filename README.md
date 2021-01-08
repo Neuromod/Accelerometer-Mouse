@@ -1,4 +1,4 @@
-# Gyro-based Digilent Arty S7 Windows mouse
+# Accelerometer-based Digilent Arty S7 Windows mouse
 
 ## Hardware requirements
 
